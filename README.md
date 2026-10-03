@@ -19,6 +19,7 @@ The hexapod can be controlled with an xbox (or equivalent) controller or a webap
 - [`instructions`](instructions-v1.0.0.pdf) - Build instructions
 - [`prints/`](prints) — Print files (`.3mf`).
 - [`cad/`](cad) — CAD models (`.step`).
+- [Demo video](https://youtube.com/shorts/dI83HE2yN1Q) — Hexapod in action.
 
 ## Companion repositories
 

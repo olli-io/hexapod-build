@@ -30,6 +30,7 @@
 - 1 pcs 2.08 inch, 256x64 SH1122 oled display ([reference](images/oled-display-reference.jpg))
 - 1 pcs 5v, 5A Ubec
 - 2 pcs 4 mm bullet connector (when using a 4mm connector battery)
+- 1 pcs usb type-c male breakout/test board
 - 1 m AWG16 wire red
 - 1 m AWG16 wire black
 - 1 m AWG20 wire red

@@ -8,7 +8,7 @@
 This is the main build repository for a hexapod I've designed and built. This and the two companion repositories contain instructions to build and drive the hexapod.
 
 > [!WARNING]
-> This is a challenging, purely DIY project. Use these instructions at you own risk. There is no support, warranty or throubleshooting help. If you want to build it, be prepared to do figure out any issues you may run into yourself.
+> This is a challenging, purely DIY project. Use these instructions at you own risk. There is no support, warranty or throubleshooting help. If you want to build it, be prepared to figure out any issues you may run into yourself.
 >
 > NOTE: A simpler/cheaper build is in the works using a Pi Pico 2 W instead of a rasperry pi.
 
@@ -16,11 +16,11 @@ The hexapod can be controlled with an xbox (or equivalent) controller or a webap
 
 ## Resources 
 
+- [ Demo video](https://youtube.com/shorts/dI83HE2yN1Q) - Hexapod in action.
 - [`instructions`](instructions-v1.0.0.pdf) - Build instructions
 - [`bill-of-materials`](bill-of-materials.md) - Parts list.
 - [`prints/`](prints) - Print files (`.3mf`).
 - [`cad/`](cad) - CAD models (`.step`).
-- [Demo video](https://youtube.com/shorts/dI83HE2yN1Q) - Hexapod in action.
 
 ## Companion repositories
 

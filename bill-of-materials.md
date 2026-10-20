@@ -15,6 +15,9 @@
 - 18 pcs M2 x 10 hex screw countersunk
 - 75 pcs M2.5 x 10 hex screw DIN912
 - 10 pcs M3 x 10 hex screw DIN912
+- 1 pcs M3 x 5, 1pcs M3 x 10 hex screw DIN912 (optional, IMU+buzzer mount)
+- 2 pcs M2 x 14 hex screw countersunk (optional, microswitch mount)
+- 3 pcs M2 x 12 hex screw countersunk (optional, rpi fan cover)
 
 **Threaded inserts**
 
